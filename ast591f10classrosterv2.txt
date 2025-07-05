@@ -1,0 +1,43 @@
+https://www.asu.edu/go/facultycenter/
+https://webapp4.asu.edu/myasu/faculty/roster?term=2107&class=71125
+
+    Course description: Covers topics of immediate or special interest 
+    Units:     1         
+    Repeatable for credit: Varies by topic
+    General    Studies: No
+    Campus:    ASU at Tempe
+    Enrollment requirements: None
+       
+    Course:    AST  494 /591
+    Title:     Astrophysics Special Topics
+    Term:      2010 Fall 
+    SLN:       86255 for AST 494; 71125 for AST 591; 
+    1001       Undergraduate / Graduate
+    Component: Lecture
+    Topic:     Astrophysics Seminar
+    
+    Day:       Fri
+    Time:      12:15PM     1:30PM
+    Room:      Physical Science F 226 (Tempe)
+    Instructor: Rogier Windhorst   
+
+Nr  EMail                          Name             Grade Program and Plan 
+
+ 1  Bryce.Carande@asu.edu          Carande, Bryce    Std  CLAS Astroph PHD 
+ 2  Jacob.Danton@asu.edu           Danton, Jacob    Audit Graduate Non-Deg 
+ 3  Vahid.Golkhou@asu.edu          Golkhou, Vahid    Std  CLAS Astroph PHD 
+ 4  Piyanat.Kittiwisit@asu.edu     Kittiwisit, Boom  Std  CLAS Astroph PHD 
+ 5  Kelley.Liebst@asu.edu          Liebst, Kelley    Std  CLAS Astroph PHD 
+ 6  Yucong.Lin@asu.edu             Lin, Yucong       Std  CLAS Astroph PHD 
+ 7  Matt.Mechtley@asu.edu          Mechtley, Matthew Std  CLAS Astroph PHD 
+ 8  Jacqueline.Monkiewicz@asu.edu  Monkiewicz, J.    Std  CLAS Astroph PHD 
+ 9  Mark.L.Richardson@asu.edu      Richardson, Mark  Std  CLAS Astroph PHD 
+10  Mark.E.Rubin@asu.edu           Rubin, Mark       Std  CLAS Astroph PHD 
+11  Caleb.Wheeler@asu.edu          Wheeler, Caleb    Std  CLAS Astroph PHD 
+
+AST 494:
+
+None
+
+No-Shows (First day):
+

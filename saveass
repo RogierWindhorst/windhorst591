@@ -1,0 +1,14 @@
+# Saves all teaching related files of current semester
+
+cd /home/raw/teach/ast591f10/
+pwd
+ls -la *
+
+UNSAFE
+\cp -pr /Users/raw/teach/ast591f10/* /hub2/backup/raw/teach/ast591f10/.
+safe
+
+echo "Your ast591f10 ass has been saved, Master"
+
+
+exit
