@@ -32,15 +32,15 @@
 
 # Put main files onto SESE 2025 jackalope server (Port 9022 requires -P in scp): 
 
-scp -pr -P 9022 *.html windhors@jackalope.sese.asu.edu:/webuser/windhors/windhorst591.asu.edu/.
+### scp -pr -P 9022 *.html windhors@jackalope.sese.asu.edu:/webuser/windhors/windhorst591.asu.edu/.
 
-### scp -pr -P 9022 * windhors@jackalope.sese.asu.edu:/webuser/windhors/windhorst591.asu.edu/.
+scp -pr -P 9022 * windhors@jackalope.sese.asu.edu:/webuser/windhors/windhorst591.asu.edu/.
 
 # Put backup files on mirror site on Microjansky:
 
-scp -pr *.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast591/. 
+### scp -pr *.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast591/. 
 
-### scp -pr * raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast591/.
+scp -pr * raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast591/.
 
 
 # All AST files will then be on:
